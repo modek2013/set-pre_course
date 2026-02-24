@@ -1,1 +1,1 @@
-My first readme
+This repository contains ALX pre-course tasks.
